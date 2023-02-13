@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PatternSingletonWithPatternbBuilder</string>
+    <string name="text">postav 10 ballov</string>
+</resources>
